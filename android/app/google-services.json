@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677499858056",
+    "project_id": "foodrec-e53ad",
+    "storage_bucket": "foodrec-e53ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677499858056:android:4a235fe1d3ad5d1b0c833d",
+        "android_client_info": {
+          "package_name": "com.example.foodrec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjRUXR32d1Hgd3JAx2R8PdE5ZEtrncNzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
